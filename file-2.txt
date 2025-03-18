@@ -9,3 +9,4 @@ line8 for master branch
 line8 for dev branch
 line10 for master branch
 line11 for master branch
+line12 for master branch
